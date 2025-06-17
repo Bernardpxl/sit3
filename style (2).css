@@ -19,6 +19,36 @@ body {
     background-size: cover;
     height: 110vh;
 }
+#pag2 {
+    background: url('https://preview.colorlib.com/theme/bitmap/img/banner/home-banner.jpg');
+    background-blend-mode: multiply; 
+    background-size: cover;
+    height: 60vh;
+}
+#pag3 {
+    background: url('https://preview.colorlib.com/theme/bitmap/img/banner/home-banner.jpg');
+    background-blend-mode: multiply; 
+    background-size: cover;
+    height: 60vh;
+}
+#pag4 {
+    background: url('https://preview.colorlib.com/theme/bitmap/img/banner/home-banner.jpg');
+    background-blend-mode: multiply; 
+    background-size: cover;
+    height: 60vh;
+}
+#pag5 {
+    background: url('https://preview.colorlib.com/theme/bitmap/img/banner/home-banner.jpg');
+    background-blend-mode: multiply; 
+    background-size: cover;
+    height: 60vh;
+}
+#pag6 {
+    background: url('https://preview.colorlib.com/theme/bitmap/img/banner/home-banner.jpg');
+    background-blend-mode: multiply; 
+    background-size: cover;
+    height: 60vh;
+}
 
 nav {
     display: flex;
